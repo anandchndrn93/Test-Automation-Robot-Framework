@@ -1,0 +1,21 @@
+==============================================================================
+Tests                                                                         
+==============================================================================
+Tests.PurchaseTest                                                            
+==============================================================================
+TC-4 verify user can purchase product                                 | FAIL |
+Setup failed:
+No keyword with name 'Navigate To LoginScreen' found.
+
+Also teardown failed:
+No keyword with name 'CLOSE ALL BROWSERS' found.
+------------------------------------------------------------------------------
+Tests.PurchaseTest                                                    | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Tests                                                                 | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\Anand.INFRRDAD\PycharmProjects\SWAGLABS-Automation\results\pabot_results\1\output.xml

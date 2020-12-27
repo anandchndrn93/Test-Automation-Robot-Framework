@@ -1,0 +1,28 @@
+==============================================================================
+Tests                                                                         
+==============================================================================
+Tests.LoginTest                                                               
+==============================================================================
+TC-1: verify User can Login                                           | FAIL |
+Parent suite setup failed:
+No keyword with name 'Navigate To LoginScreen' found.
+------------------------------------------------------------------------------
+TC-2 verify user can logout                                           | FAIL |
+Parent suite setup failed:
+No keyword with name 'Navigate To LoginScreen' found.
+------------------------------------------------------------------------------
+Tests.LoginTest                                                       | FAIL |
+Suite setup failed:
+No keyword with name 'Navigate To LoginScreen' found.
+
+Also suite teardown failed:
+No keyword with name 'CLOSE ALL BROWSERS' found.
+
+2 critical tests, 0 passed, 2 failed
+2 tests total, 0 passed, 2 failed
+==============================================================================
+Tests                                                                 | FAIL |
+2 critical tests, 0 passed, 2 failed
+2 tests total, 0 passed, 2 failed
+==============================================================================
+Output:  C:\Users\Anand.INFRRDAD\PycharmProjects\SWAGLABS-Automation\results\pabot_results\0\output.xml

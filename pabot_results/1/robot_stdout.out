@@ -1,0 +1,39 @@
+==============================================================================
+Tests                                                                         
+==============================================================================
+Tests.PurchaseTest                                                            
+==============================================================================
+TC-4 verify user can purchase product                                 launching browser chrome
+user name was entered
+password was entered
+loging in
+successfully logged in
+products are sorted in accending order by price
+product to be purchased is Sauce Labs Onesie
+price of Sauce Labs Onesie is $7.99
+product added to cart
+opening cart
+cart is loaded
+the product added is Sauce Labs Onesie
+the price of product from product page is 
+price in cart is
+check out page is loaded
+first name entered
+last name enetered
+zip code entered
+moving to review page
+overview
+purchase confirmed
+confirmation page is loaded
+product purchase is complete
+| PASS |
+------------------------------------------------------------------------------
+Tests.PurchaseTest                                                    | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Tests                                                                 | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Output:  C:\Users\Anand.INFRRDAD\PycharmProjects\SWAGLABS-Automation\pabot_results\1\output.xml

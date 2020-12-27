@@ -1,0 +1,27 @@
+==============================================================================
+Tests                                                                         
+==============================================================================
+Tests.LoginTest                                                               
+==============================================================================
+launching browser chrome
+TC-1: verify User can Login                                           user name was entered
+password was entered
+loging in
+successfully logged in
+| PASS |
+------------------------------------------------------------------------------
+TC-2 verify user can logout                                           menu opened
+login page was loaded
+user successfully logged out
+login page was loaded
+| PASS |
+------------------------------------------------------------------------------
+Tests.LoginTest                                                       | PASS |
+2 critical tests, 2 passed, 0 failed
+2 tests total, 2 passed, 0 failed
+==============================================================================
+Tests                                                                 | PASS |
+2 critical tests, 2 passed, 0 failed
+2 tests total, 2 passed, 0 failed
+==============================================================================
+Output:  C:\Users\Anand.INFRRDAD\PycharmProjects\SWAGLABS-Automation\pabot_results\0\output.xml
