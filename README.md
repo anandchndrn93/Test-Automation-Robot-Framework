@@ -1,7 +1,7 @@
 # Test-Automation-Robot-Framework
 This is a sample Test Automation framework using Robot Framework
 
-The freamework automates 6 test cases for https://www.saucedemo.com/.  Tests have tag REG and SANITY. tests can be run based on their tages in parallel
+The freamework automates 6 test cases for https://www.saucedemo.com/.  Tests have tags REG and SANITY. tests can be run based on their tages in parallel
 
 Desing pattern followed is page object model
 
