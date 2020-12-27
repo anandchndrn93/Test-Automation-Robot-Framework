@@ -1,9 +1,9 @@
 # Test-Automation-Robot-Framework
 This is a sample Test Automation framework using Robot Framework
 
-The freamework automates 6 test cases for https://www.saucedemo.com/.  Tests have tags REG and SANITY. tests can be run based on their tages in parallel
+The freamework automates 6 test cases for https://www.saucedemo.com/.  Tests have tags REG and SANITY. Tests can be run based on their tages in parallel
 
-Desing pattern followed is page object model. Test Setup and Tear down has been added. the browsers used are chrome and firefox.
+Desing pattern followed is page object model. Test Setup and Tear down has been added. The browsers used are chrome and firefox.
 
 # Requirements
 robotframework                   3.2.2
@@ -22,10 +22,10 @@ selenium                         3.141.0
 
 
 # How to run
-open Auto-Core/config/configuration.robot and enter browser
+Open Auto-Core/config/configuration.robot and enter browser
 
-open Auto-Core/config/Data.robot and enter the product name
+Open Auto-Core/config/Data.robot and enter the product name
 
-run the command   pabot --processes 2 --outputdir results -i SANITY Auto-Scripts/Tests to run Sanity rests.  the number 2 denotes the parrallel threads being run.
+Run the command   pabot --processes 2 --outputdir results -i SANITY Auto-Scripts/Tests to run Sanity rests.  The number 2 denotes the parrallel threads being run.
 
-run the command   pabot --processes 2 --outputdir results -i REG Auto-Scripts/Tests to run Regression tests. the number 2 denotes the parrallel threads being run.
+Run the command   pabot --processes 2 --outputdir results -i REG Auto-Scripts/Tests to run Regression tests. The number 2 denotes the parrallel threads being run.
