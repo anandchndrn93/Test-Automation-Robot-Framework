@@ -29,3 +29,5 @@ Open Auto-Core/config/Data.robot and enter the product name
 Run the command   pabot --processes 2 --outputdir results -i SANITY Auto-Scripts/Tests to run Sanity rests.  The number 2 denotes the parrallel threads being run.
 
 Run the command   pabot --processes 2 --outputdir results -i REG Auto-Scripts/Tests to run Regression tests. The number 2 denotes the parrallel threads being run.
+
+Reports and logs can be found in results folder
